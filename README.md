@@ -1,1 +1,1 @@
-# reactredux
+# ReactReduxIntegrationBasic
